@@ -1,0 +1,6 @@
+{
+  "name": "vision_dashboard",
+  "auto_deploy": false,
+  "safety_checks": true,
+  "pause_enabled": true
+}
